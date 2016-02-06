@@ -31,9 +31,9 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
   - De Morgan's Laws
   - Absorption Laws
 - Learned about Quantifiers
-  - Existential quantifier (∃x)
+  - **Existential quantifier** (∃x)
      - "there Exist" 
-  - Universal quantifier (∀x)
+  - **Universal quantifier** (∀x)
      - "for ALL"
 - Learned about the Rules of Inference:
   - Modus Ponens
@@ -66,3 +66,11 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
  - **Mathematical Induction**
    - Step 1: Substitution (Basis) 
     - Step 2: Direct Proof (Inductive) 
+
+##WEEK 4
+
+- I got reminded of Summation
+- Learned more about proofs through the excercises we did
+- Learned about Recursive Proofs
+  - Basis (specify value) 
+  - Recursive
