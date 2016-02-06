@@ -72,5 +72,5 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 - I got reminded of Summation
 - Learned more about proofs through the excercises we did
 - Learned about Recursive Proofs
-  - Basis (specify value) 
-  - Recursive
+  - Step 1: Basis (specify value) 
+  - Step 2: Recursive
