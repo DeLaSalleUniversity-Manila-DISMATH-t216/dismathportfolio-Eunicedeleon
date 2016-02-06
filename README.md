@@ -45,3 +45,24 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
   - Resolution
 - Learned how to use the Rules of Inference to prove a set of arguments.
 - Learned that it is easier to use Rules of Inference than using Truth Tables when dealing with many variables.
+
+##WEEK 3
+
+- Learned about the different types of proofs:
+ - Direct Proof (p→q) 
+  - Step 1: Assume p is true
+  - Step 2: Show q is true
+ - Proof by Contraposition (¬q→¬p)
+  - Step 1: Assume ¬q is true
+  - Step 2: Show ¬p is true
+ - Vacuous Proof (¬p→(p→q)) 
+  - Step 1: Show that p is false
+ - Trivial Proof (q→(p→q))
+  - Step 1: Show that q is true
+ - Proof by Contradiction (p) 
+  - Step 1: Show that assuming ¬p(whole premise) is true leads to a contradiction 
+ - Proof by Equivalence (p↔q)
+  - Step 1: Show that p→q and q→p are both true
+ - Mathematical Induction
+  - Step 1: Substitution (Basis) 
+  - Step 2: Direct Proof (Inductive) 
