@@ -20,22 +20,19 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 
 ##WEEK 2
 
-- Learned about Logical Equivalences and how to use them to prove propositions.
+- Learned about **Logical Equivalences** and how to use them to prove propositions.
   
   ![12696464_10204392522173537_1769547281_o](https://cloud.githubusercontent.com/assets/16644615/12865814/852d56c8-ccf2-11e5-9c35-30a761e1a0a1.jpg)
 
-- Learned about Quantifiers
+- Learned about **Quantifiers**
 
   ![12665826_10204392522213538_1479020879_n](https://cloud.githubusercontent.com/assets/16644615/12865813/84f9c812-ccf2-11e5-97e6-2b09a6ec637a.jpg)
   
-- Learned about the Rules of Inference:
-  - Modus Ponens
-  - Modus Tollens
-  - Hypothetical Syllogism
-  - Addition
-  - Simplification
-  - Conjunction
-  - Resolution
+- Learned about the **Rules of Inference**:
+  
+  ![12647903_10204392522733551_941197840_n](https://cloud.githubusercontent.com/assets/16644615/12865815/878d2d9e-ccf2-11e5-987f-bddfc18c690e.jpg)
+
+
 - Learned how to use the Rules of Inference to prove a set of arguments.
 - Learned that it is easier to use Rules of Inference than using Truth Tables when dealing with many variables.
 
@@ -64,6 +61,6 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 
 - I got reminded of Summation
 - Learned more about proofs through the excercises we did
-- Learned about Recursive Proofs
+- Learned about **Recursive Proofs**
   - Step 1: Basis (specify value) 
   - Step 2: Recursive
