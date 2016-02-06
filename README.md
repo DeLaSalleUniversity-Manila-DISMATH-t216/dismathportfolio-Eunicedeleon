@@ -21,20 +21,9 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 ##WEEK 2
 
 - Learned about Logical Equivalences and how to use them to prove propositions.
-  - Identity Laws
-  - Domination Laws
-  - Negation Laws
-  - Indempotent Laws
-  - Commutative Laws
-  - Associative Laws
-  - Distributive Laws
-  - De Morgan's Laws
-  - Absorption Laws
+
 - Learned about Quantifiers
-  - **Existential quantifier** (∃x)
-     - "there Exist" 
-  - **Universal quantifier** (∀x)
-     - "for ALL"
+![12665826_10204392522213538_1479020879_n](https://cloud.githubusercontent.com/assets/16644615/12865813/84f9c812-ccf2-11e5-97e6-2b09a6ec637a.jpg)
 - Learned about the Rules of Inference:
   - Modus Ponens
   - Modus Tollens
