@@ -49,20 +49,20 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 ##WEEK 3
 
 - Learned about the different types of proofs:
- - Direct Proof (p→q) 
+ - **Direct Proof** (p→q) 
    - Step 1: Assume p is true
     - Step 2: Show q is true
- - Proof by Contraposition (¬q→¬p)
+ - **Proof by Contraposition** (¬q→¬p)
    - Step 1: Assume ¬q is true
     - Step 2: Show ¬p is true
- - Vacuous Proof (¬p→(p→q)) 
+ - **Vacuous Proof** (¬p→(p→q)) 
    - Step 1: Show that p is false
- - Trivial Proof (q→(p→q))
+ - **Trivial Proof** (q→(p→q))
    - Step 1: Show that q is true
- - Proof by Contradiction (p) 
+ - **Proof by Contradiction** (p) 
    - Step 1: Show that assuming ¬p(whole premise) is true leads to a contradiction 
- - Proof by Equivalence (p↔q)
+ - **Proof by Equivalence** (p↔q)
    - Step 1: Show that p→q and q→p are both true
- - Mathematical Induction
+ - **Mathematical Induction**
    - Step 1: Substitution (Basis) 
     - Step 2: Direct Proof (Inductive) 
