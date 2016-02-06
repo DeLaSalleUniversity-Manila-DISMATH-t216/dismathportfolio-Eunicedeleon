@@ -30,8 +30,7 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
   
 - Learned about the **Rules of Inference**:
   
-  ![12647903_10204392522733551_941197840_n](https://cloud.githubusercontent.com/assets/16644615/12865815/878d2d9e-ccf2-11e5-987f-bddfc18c690e.jpg)
-
+  ![12647903_10204392522733551_941197840_n1](https://cloud.githubusercontent.com/assets/16644615/12865855/ce9dc666-ccf3-11e5-89a4-980c634408c9.jpg)
 
 - Learned how to use the Rules of Inference to prove a set of arguments.
 - Learned that it is easier to use Rules of Inference than using Truth Tables when dealing with many variables.
