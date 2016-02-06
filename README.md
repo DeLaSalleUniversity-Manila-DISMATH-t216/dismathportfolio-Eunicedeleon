@@ -21,6 +21,8 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 ##WEEK 2
 
 - Learned about Logical Equivalences and how to use them to prove propositions.
+  
+  ![12696464_10204392522173537_1769547281_o](https://cloud.githubusercontent.com/assets/16644615/12865814/852d56c8-ccf2-11e5-9c35-30a761e1a0a1.jpg)
 
 - Learned about Quantifiers
 
