@@ -63,3 +63,21 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 - Learned about **Recursive Proofs**
   - Step 1: Basis (specify value) 
   - Step 2: Recursive
+
+##WEEK 5
+- Learned about Partial Correctness
+- Learned how to use the Hoare Triple: p{S}q
+- Learned about the functions as Power Series
+- Learned about sets and sets theory
+  - Membership
+  - Set Builder Notation
+  - Venn Diagrams
+  - Power Set
+
+##WEEK 6
+- Learned more about sets
+  - Cardinality
+  - Functions
+    - Domain
+    - Co-domain
+    - Range
