@@ -81,3 +81,33 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
     - Domain
     - Co-domain
     - Range
+
+##WEEK 7
+- Learned about algorithms
+  - how to make pseudocodes
+  - Iteration tables 
+- Properties of Algorithms 
+  - precondition
+  - postcondition
+  - input
+  - output
+  - definiteness
+  - correctness
+  - finiteness
+  - generality
+- Learned how linear search works and its pseudocode
+- Learned how binary search works and its pseudocode
+
+##WEEK 8
+- Learned about sorting algorithms
+  - insert sort and its pseudocode
+  - bubble sort and its pseudocode
+  - greedy algorithm
+
+##WEEK 9
+- Learned about growth of functions:
+  - Big-O which is the upper bound
+  - Big-Omega which is the lower bound 
+  - Big-Theta which is both lower and upper bound
+- Learned about Algorithm Time Complexity
+- Caesar Cipher
