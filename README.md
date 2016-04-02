@@ -111,3 +111,22 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
   - Big-Theta which is both lower and upper bound
 - Learned about Algorithm Time Complexity
 - Caesar Cipher
+
+##WEEK 10
+- Learned about graph theory
+  -  graphs
+  -  vertex and degree of a vertex
+  -  Handshaking theorem
+  -  Simple graphs Kn
+  -  Cycles Cn
+  -  Wheels Wn
+  - Subgraphs
+  -  Union and intersection of graphs
+  -  Euler Circuit and Path
+  -  Hamilton Circuit and Path
+  -  Matrices of graphs
+  -  Isomorphism of graphs
+  -  Planar Graphs
+  -  Euler's formula
+  -  Homeomorphic Graphs
+  -  Kuratowski's Theorem
