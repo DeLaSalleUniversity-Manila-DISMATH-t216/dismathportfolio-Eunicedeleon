@@ -114,19 +114,29 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
 
 ##WEEK 10
 - Learned about graph theory
-  -  graphs
-  -  vertex and degree of a vertex
-  -  Handshaking theorem
-  -  Simple graphs Kn
-  -  Cycles Cn
-  -  Wheels Wn
-  - Subgraphs
-  -  Union and intersection of graphs
-  -  Euler Circuit and Path
-  -  Hamilton Circuit and Path
-  -  Matrices of graphs
-  -  Isomorphism of graphs
-  -  Planar Graphs
-  -  Euler's formula
-  -  Homeomorphic Graphs
-  -  Kuratowski's Theorem
+  -  **Graphs** - Discrete structures consisting of vertices and edges that connect the vertices
+  -  **Vertex** 
+  -  **Degree of a vertex** - number of edges incident with the vertex
+  -  **Handshaking theorem**
+  -  **Simple graphs** Kn - one edge between each pair of vertices
+  -  **Cycles** Cn
+  -  **Wheels** Wn
+  -  **Subgraphs**
+  -  **Union of graphs**
+  -  **Intersection of graphs**
+  -  **Path** - sequence of edges and travels from vertex to vertex
+  -  **Euler Circuit and Path** - simple circuit containing every edge
+      - if the graphs vertices have even degrees, it has an Euler cricuit
+      - 2 vertices of odd degree = Euler path
+  -  **Hamilton Circuit and Path** - passes through every vertex once
+      -3 pendants = no path or circuit 
+  -  **Matrices of graphs**
+      -  Adjacency Matrix
+      -  Incidence Matrix
+  -  **Isomorphism of graphs** - graphs are isomorphic iff there is a one-to-one and onto function f from V1 to V2
+  -  **Planar Graphs** - graphs that can be drawn in the plane without edges having to cross
+  -  **Euler's formula**
+  -  **Homeomorphic Graphs**
+      - **Elementary Subdivision** - if a graph is planar, so will be any graph obtained by removing an edge and adding a new vertex
+      - **Homeomorphic** - graphs can be obtained from the same graph using elementary subdivision
+  -  **Kuratowski's Theorem** - a graph is non-planar iff it contains a subgraph homeomorphic to:
