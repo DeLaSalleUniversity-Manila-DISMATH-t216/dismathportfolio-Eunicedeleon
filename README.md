@@ -118,11 +118,29 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
   -  **Vertex** 
   -  **Degree of a vertex** - number of edges incident with the vertex
   -  **Handshaking theorem**
+  
+      ![handshake](https://cloud.githubusercontent.com/assets/16644615/14377454/46efc3d8-fda2-11e5-8fcf-a91e28b9bc60.png)
+
   -  **Simple graphs** Kn - one edge between each pair of vertices
+  
+    ![1](https://cloud.githubusercontent.com/assets/16644615/14377449/46b8d6ca-fda2-11e5-9d3f-1e449f5858d7.jpg)
+
   -  **Cycles** Cn
+  
+    ![2](https://cloud.githubusercontent.com/assets/16644615/14377450/46b8dbde-fda2-11e5-8b90-cecf14528d2e.png)
+
   -  **Wheels** Wn
+  
+    ![3](https://cloud.githubusercontent.com/assets/16644615/14377451/46bb736c-fda2-11e5-977d-c592d8b7c306.png)
+
   -  **Subgraphs**
+  
+    ![subgraph](https://cloud.githubusercontent.com/assets/16644615/14377459/47287304-fda2-11e5-853b-88d4508e9a9d.png)
+
   -  **Union of graphs**
+  -  
+    ![union](https://cloud.githubusercontent.com/assets/16644615/14377458/47287a66-fda2-11e5-8c82-0681d118c880.png)
+
   -  **Intersection of graphs**
   -  **Path** - sequence of edges and travels from vertex to vertex
   -  **Euler Circuit and Path** - simple circuit containing every edge
@@ -132,11 +150,33 @@ dismathportfolio-Eunicedeleon created by Classroom for GitHub
       -3 pendants = no path or circuit 
   -  **Matrices of graphs**
       -  Adjacency Matrix
+      -  
+       ![adjacency matrix](https://cloud.githubusercontent.com/assets/16644615/14377452/46bbe9aa-fda2-11e5-938a-676d50d4babd.png)
       -  Incidence Matrix
+      -  
+      ![incidencematrix](https://cloud.githubusercontent.com/assets/16644615/14377455/46f11698-fda2-11e5-81f8-de24444bbaf8.png)
+
   -  **Isomorphism of graphs** - graphs are isomorphic iff there is a one-to-one and onto function f from V1 to V2
+  
+      ![insomorphism](https://cloud.githubusercontent.com/assets/16644615/14377456/46f38a2c-fda2-11e5-9115-0b2480054b0c.png)
+
   -  **Planar Graphs** - graphs that can be drawn in the plane without edges having to cross
   -  **Euler's formula**
+  
+      ![eulerformula](https://cloud.githubusercontent.com/assets/16644615/14377453/46bcff52-fda2-11e5-8e56-929f178a877b.png)
+
   -  **Homeomorphic Graphs**
       - **Elementary Subdivision** - if a graph is planar, so will be any graph obtained by removing an edge and adding a new vertex
       - **Homeomorphic** - graphs can be obtained from the same graph using elementary subdivision
   -  **Kuratowski's Theorem** - a graph is non-planar iff it contains a subgraph homeomorphic to:
+  
+      ![kuratowskis](https://cloud.githubusercontent.com/assets/16644615/14377457/46f46898-fda2-11e5-9eef-9e6b670f6428.png)
+
+##WEEK 11
+
+  - Learned about Graph Coloring
+  - Learned about four color theorem
+  - Learned about trees
+    - Rooted trees
+      - m-ary tree
+      - ordered rooted tree
